@@ -10,8 +10,8 @@ export default function Presentation() {
         </div>
         <div className='flex justify-center items-center px-3'>
             <h1 className='text-4xl md:text-7xl lg:text-7xl max-w-3xl m-4 sm:m-8 font-bold text-center'>
-              <p className='text-purple-600 font-extrabold'>"I love to develop</p>
-               things that can help people"</h1>
+              <p className='text-purple-600 font-extrabold'>I love to develop</p>
+               things that can help people</h1>
         </div>
         <div className='flex justify-center items-center lg:text-4xl p-3 '>
           <p className='text-center max-w-3xl mb-4 text-xl font-medium text-black/40'>
